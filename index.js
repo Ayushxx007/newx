@@ -21,3 +21,8 @@ function commit5(){
 
     return "commit5";
 }
+
+function commit6(){
+
+    return "commit6";
+}
