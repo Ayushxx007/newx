@@ -44,3 +44,7 @@ const branch=()=>{
 const branch2=()=>{
     return "branch2";
 }
+
+const branchmahika=()=>{
+    return "branchmahika";
+}
