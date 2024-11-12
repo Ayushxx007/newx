@@ -40,3 +40,7 @@ function commit8(){
 const branch=()=>{
     return "branch";
 }
+
+const branch2=()=>{
+    return "branch2";
+}
